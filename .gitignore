@@ -2,4 +2,5 @@ learn-sockets.code-workspace
 cpp/models/out
 cpp/lesson1
 cpp/lesson2
-
+.vscode/
+*.dSYM/
